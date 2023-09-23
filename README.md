@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Mo Sahil.
-- 👀 I’m interested in Python programming.
-- 🌱 I’m currently learning Python.
+- 👀 I’m interested in C++ programming.
+- 🌱 I’m currently learning Data Structures.
 - 📫 email at sahilbmu@gmail.com to reach to me.
